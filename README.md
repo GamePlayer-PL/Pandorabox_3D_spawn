@@ -4,3 +4,6 @@
 
 ## Example image
  ![IMAGE](/rendered/pb_spawn_br_3.png)
+
+## Info
+ You can use it everywhere. It's free. You can try to make better image etc. Enjoy! 👍
